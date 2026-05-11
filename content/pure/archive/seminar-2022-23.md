@@ -80,7 +80,7 @@ I will explain the Hardy-Littlewood circle method, an important tool in analytic
 Along the way, we will see why a different proof is needed to obtain an effective bound for ‘sufficiently large’, and why the proof cannot be readily adapted to prove the (Even) Goldbach Conjecture, which posits that every even number can be written as the sum of two primes.
 
 ### 15 Dec{.talk-date}
-#### [Gautam Chaudhuri]{.speaker-name} — [An Introduction to Vortices]{.talk-title} {.speaker-title}
+#### [Cas Chaudhuri]{.speaker-name} — [An Introduction to Vortices]{.talk-title} {.speaker-title}
 
 *Abstract*: Vortices are topological solitons on Riemann surfaces initially studied as models of supercurrents in a strong magnetic field.
 More recently, generalisations of vortices have been used to define novel invariants on symplectic manifolds and have deep ties to the theory of vector bundles over complex algebraic curves.

@@ -2,8 +2,6 @@
 title: Pure Mathematics
 ---
 
-Your Pure PGR representative is Hope Duncan.
-
 Links:
 
 - [Pure PGR Seminar (current)](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/)

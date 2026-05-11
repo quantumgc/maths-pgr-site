@@ -27,7 +27,7 @@ Previous incarnations of this seminar can be found [here](./archive).
 
 
 ### 30 Sep{.talk-date}
-#### [Gautam Chaudhuri]{.speaker-name} — [2-Vortices on Elliptic Curves]{.talk-title} {.speaker-title}
+#### [Cas Chaudhuri]{.speaker-name} — [2-Vortices on Elliptic Curves]{.talk-title} {.speaker-title}
 
 *Abstract*: Vortices are topological solitons arising in the Ginzburg-Landau theory of superconductivity.
 They have been observed experimentally and explain some of the magnetic properties of type-II superconductors.

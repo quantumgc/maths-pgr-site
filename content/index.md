@@ -22,9 +22,9 @@ Subject-specific:
 
 ## Representatives
 
-* Applied: *Nils de Vries*
-* Pure: *Hope Duncan*
-* Statistics: *Luis Mario Chaparro Jáquez*
+* Applied:
+* Pure:
+* Statistics:
 
 ## Conferences
 
@@ -34,4 +34,4 @@ Subject-specific:
 * [Leeds PGR Conference 2022](https://sites.google.com/view/som-pgr-conference22/)
 
 <hr>
-<small>Site masters: Gautam Chaudhuri and Luca Seemungal. Contribute to the site on its [Github repository](https://github.com/leeds-maths-pgr).</small>
+<small>Site masters: Cas Chaudhuri and Luca Seemungal. Contribute to the site on its [Github repository](https://github.com/leeds-maths-pgr).</small>

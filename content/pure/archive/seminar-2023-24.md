@@ -73,7 +73,7 @@ Topics may include transfer matrix algebras (including the celebrated Temperley-
 
 
 ### 08 Apr{.talk-date}
-#### [Gautam Chaudhuri]{.speaker-name} — [Vortices and the Geodesic Approximation]{.talk-title} {.speaker-title}
+#### [Cas Chaudhuri]{.speaker-name} — [Vortices and the Geodesic Approximation]{.talk-title} {.speaker-title}
 
 *Abstract:* The geodesic approximation models the dynamics of slowly moving solitons in a classical field theory by geodesics on a related moduli space, reducing complex problems in soliton dynamics to more tractable statements in Riemannian geometry.
 
