@@ -10,15 +10,10 @@ pagetitle: Homepage
 
 ## Seminars
 
-General:
-
-* Applied PGR Seminar
 * [Pure PGR Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/)
-* [Statistics PGR Seminar](https://lmcj.xyz/stats-seminar/)
-
-Subject-specific:
-
 * [PG Logic Seminar](https://logic.leeds.ac.uk/series/pg-logic/)
+
+Visit the [mathsseminars](https://mathsseminars.leeds.ac.uk/) site for more Leeds seminar series.
 
 ## Representatives
 
